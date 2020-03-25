@@ -5,6 +5,8 @@ In this project you are be able to classify positions in canvas by color using M
 
 After teaching the software, you get in "Predict Mode", in this mode, the software make some guesses based on mouse position and painting the spots.
 
+You can try it in this link https://editor.p5js.org/RaphaelBruno/sketches/5ERczCVoR
+
 ![preview](preview.png)
 
 ## Libraries
