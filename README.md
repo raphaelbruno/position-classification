@@ -1,4 +1,4 @@
-# Cover Carousel
+# Cover Carousel (Machine Learn)
 A position classification by color.
 
 In this project you are be able to classify positions in canvas by color using Machine Learn. There is a file to train in data folder, or you can train your own data by adding some points in canvas area.
